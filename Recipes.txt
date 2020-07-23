@@ -6,4 +6,8 @@ cheese
 olives
 chicken 
 sausages 
+onions
+tomatoes 
+
+done my edits 
  
