@@ -6,4 +6,7 @@ cheese
 olives
 chicken 
 sausages 
+onions
+tomotoes 
+
  
